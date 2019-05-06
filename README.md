@@ -1,5 +1,5 @@
-# HDL-Simmualtion-of-Digital-Circits
-//5-bit Internal XOR LFSR with feedback polynomial x5+x2+1
+# 5-bit Internal XOR LFSR with feedback polynomial x5+x2+1
+
 //Top Module
 
 module LFSR_Internal_5_bit(clk,reset,S);
